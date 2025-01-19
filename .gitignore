@@ -143,3 +143,4 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node
 /API/mimoapi-e5734-firebase-adminsdk-fbsvc-636c3b2d11.json
+/.angular
