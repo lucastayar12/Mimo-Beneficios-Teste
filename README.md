@@ -1,6 +1,6 @@
 ## Como executar os projetos:
 
-> [!INFO] Executar o npm install
+> [!NOTE]
 > Antes de tentar executar qualquer comando abaixo é necessario executar o seguinte comando em cada projeto:
 > ```npm install``` 
 
