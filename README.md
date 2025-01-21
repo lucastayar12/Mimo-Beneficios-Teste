@@ -1,5 +1,9 @@
 ## Como executar os projetos:
 
+> [!INFO] Executar o npm install
+> Antes de tentar executar qualquer comando abaixo é necessario executar o seguinte comando em cada projeto:
+> ```npm install``` 
+
 ### Para rodar o back-end é necessário rodar o seguinte comando na raiz do proejeto do back-end:
 ```
 npm run dev
