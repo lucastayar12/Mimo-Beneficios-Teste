@@ -4,11 +4,11 @@
 > Antes de tentar executar qualquer comando abaixo é necessário executar o seguinte comando em cada projeto:
 > ```npm install``` 
 
-### Para rodar o back-end é necessário rodar o seguinte comando na raiz do proejeto do back-end:
+### Para rodar o back-end é necessário rodar o seguinte comando na raiz do projeto do back-end:
 ```
 npm run dev
 ```
-### Para rodar o front-end é necessário rodar o seguinte comando na raiz do proejeto do front-end:
+### Para rodar o front-end é necessário rodar o seguinte comando na raiz do projeto do front-end:
 ```
 ng serve
 ```
